@@ -43,7 +43,7 @@ Bekleme sürelerini rastgele aralıklarla (random delay) belirler.
 🛠️ Teknik Altyapı ve Güvence
 "Hata payını sıfıra indirdik." Gelişmiş hata yakalama (Error Catching) ve otomatik loglama sistemi sayesinde, hiçbir işlem yarıda kalmaz. Tüm sessions, logs ve photos klasörleri otomatik olarak organize edilir.
 
-https://www.youtube.com/watch?v=4K2raivKhAg
+
 🧲 Kimler İçin İdeal?
 
 📈 Grup Büyütmek İsteyenler: Kısa sürede binlerce aktif üyeye ulaşın.
@@ -56,5 +56,6 @@ https://www.youtube.com/watch?v=4K2raivKhAg
 ✔ Uygun Fiyat Garantisi
 ✔ Kesintisiz Güncelleme Desteği
 💬 Hemen Profesyonel Telegram Marketing'e Adım Atın! Detaylı bilgi, demo veya satın alım için bana DM üzerinden veya WhatsApp hattımızdan ulaşabilirsiniz.
-Whatsapp: Buraya tıkla
+
+Whatsapp: https://api.whatsapp.com/send/?phone=%2B994559557582&text&type=phone_number&app_absent=0
 Telegram: https://t.me/sercexyazilimtr
